@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Voice your thoughts
 
 You can use the [editor on GitHub](https://github.com/philo123/philo123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
