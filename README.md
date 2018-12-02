@@ -7,5 +7,5 @@ Voice your opinions on some of today's most pressing issues (as well as trivial 
 
 Topics will be added soon. 
 
-What do you think of this idea? Let us know down below.
+Got an idea for a great discussion topic? Let us know down below..
 {% include disqus_comments.html %}
